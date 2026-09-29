@@ -5,3 +5,6 @@ tool/
 .claude/
 .dart_tool/
 .github/
+# .pubignore replaces .gitignore for publishing, so repeat its build outputs.
+build/
+pubspec.lock
