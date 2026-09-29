@@ -1,0 +1,7 @@
+CLAUDE.md
+FILES.md
+WORKLOG.md
+tool/
+.claude/
+.dart_tool/
+.github/
